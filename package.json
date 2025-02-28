@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "omer_mustafa",
   "license": "MIT",
-  "description": "new description of weatehr api",
+  "desription": "new description of weatehr api",
   "dependencies": {
     "@faker-js/faker": "^9.5.1",
     "express-validator": "^7.2.1",
