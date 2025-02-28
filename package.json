@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/src/server.js",
+    "lint": "eslint . --ext .ts,.tsx",
     "dev": "nodemon dist/src/server.js",
     "build": "tsc -p tsconfig.json",
     "build:watch": "tsc -w -p tsconfig.json",
