@@ -1,0 +1,25 @@
+{
+  "name": "weather_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "omer_mustafa",
+  "license": "MIT",
+  "description": "The weather api",
+  "dependencies": {
+    "@faker-js/faker": "^9.5.1",
+    "express-validator": "^7.2.1",
+    "xpress": "^2.4.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "nodemon": "^3.1.9",
+    "npm-run": "^5.0.1",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.3"
+  }
+}
